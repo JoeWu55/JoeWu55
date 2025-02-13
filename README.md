@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Joe
+
+I am a sophmore at UIC majoring in CS. Trying to fit my passion of computer programs with my search for a fulfilling career. 
+Currently I am learning C/C++ and narrowing my focus in what CS field I am passionate about. I am actively looking into extra curriculars and events to inform my decision in future careers.
+
+Current:
 
 <!--
 **JoeWu55/JoeWu55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
