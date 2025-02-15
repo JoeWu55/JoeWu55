@@ -8,7 +8,7 @@ Current Objectives:<br>
   Understand Debugging tools<br>
   Improve my proficiency in C/C++<br>
 
-Summer Objectives:
+Summer Objectives:<br>
   Develop small projects recreating other programs
   
 <!--
