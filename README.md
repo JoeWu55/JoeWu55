@@ -4,9 +4,9 @@ I am a sophmore at UIC majoring in CS. Trying to fit my passion of computer prog
 Currently I am learning C/C++ and narrowing my focus in what CS field I am passionate about. I am actively looking into extra curriculars and events to inform my decision in future careers.
 
 Current Objectives:
-  Learn UNIX
-  Understand Debugging tools
-  Improve my proficiency in C/C++
+  Learn UNIX\n
+  Understand Debugging tools\n
+  Improve my proficiency in C/C++\n\n
 
 Summer Objectives:
   Develop small projects recreating other programs
