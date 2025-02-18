@@ -4,12 +4,12 @@ I am a sophmore at UIC majoring in CS. Trying to fit my passion of computer prog
 Currently I am learning C/C++ and narrowing my focus in what CS field I am passionate about. I am actively looking into extra curriculars and events to inform my decision in future careers.
 
 Current Objectives:<br>
-    Learn UNIX<br>
-  Understand Debugging tools<br>
-  Improve my proficiency in C/C++<br>
+Learn UNIX<br>
+Understand Debugging tools<br>
+Improve my proficiency in C/C++<br>
 
 Summer Objectives:<br>
-  Develop small projects recreating other programs
+Develop small projects recreating other programs<br>
   
 <!--
 **JoeWu55/JoeWu55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
