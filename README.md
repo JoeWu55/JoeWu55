@@ -10,7 +10,7 @@ Improve my proficiency in C/C++<br>
 
 Summer Objectives:<br>
 Develop small projects recreating other programs<br>
----Try using C# a bit more on game modding i.e. item creation
+---Try using C# a bit more on game modding i.e. item creation<br>
 Hopefully acquire a summer internship available in Chicago for experience<br>
   
 <!--
